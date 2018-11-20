@@ -1,5 +1,5 @@
 FROM vikaschenny/rheljava:1.8
-MAINTAINER birruchennaiah@outlook.com
+MAINTAINER innamurivinod@gmail.com
 COPY jboss-eap-7.1.0-installer.jar /opt/jboss-eap-7.1.0-installer.jar
 COPY auto.xml /opt/
 COPY auto.xml.variables /opt/
