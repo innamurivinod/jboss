@@ -1,5 +1,5 @@
 FROM registry.access.redhat.com/rhel7/rhel
-MAINTAINER birruchennaiah@outlook.com
+MAINTAINER innamurivinod@gmail.com
 ADD jdk-8u191-linux-x64.tar.gz /opt/
 WORKDIR /opt/
 RUN ls -lart
